@@ -1,7 +1,7 @@
 # ToolsDocuments
 Repository to maintain things I am learning or learnt
 
-# TMUX CHEATSHEET##########################################################
+# TMUX CHEATSHEET############################
 # session management
 tmux ls (or tmux list-sessions)
 tmux new -s session-name
